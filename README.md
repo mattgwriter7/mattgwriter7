@@ -5,7 +5,7 @@
 
 Skills: FLUTTER / DART / JS / HTML / CSS
 
-- 🔭 I’m currently working on a Gamebook for choose-your-own-adventure stories 
+- 🔭 I’m currently working on a [gamebook]([https://github.com/mattgwriter7/gamebook/blob/main/NOTES.md](https://github.com/mattgwriter7/gamebook))  for choose-your-own-adventure stories 
 - 🌱 I’m currently learning Python 
 - 💬 Ask me about my take on aliens and UFOs... 
 
