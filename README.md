@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Matt Garvin
-#### I am a Writer, Software Developer, and remote-working Brain-for-Hire that lives in Toronto, Ontario.
-![I am a Writer, Software Developer, and remote-working Brain-for-Hire that lives in Toronto, Ontario.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### I am a Software Developer, Writer, and remote-working Brain-for-Hire that lives in Toronto, Ontario.
+![I am a Software Developer, Writer, and remote-working Brain-for-Hire that lives in Toronto, Ontario.](https://mattgwriter7.com/assets/github/banner_season_pro.png)
 
 
 Skills: FLUTTER / DART / JS / HTML / CSS
