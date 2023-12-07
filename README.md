@@ -1,5 +1,5 @@
-### Hi there 👋, I am Matt Garvin
-#### I am a Software Developer, Writer, and remote-working Brain-for-Hire that lives in Toronto, Ontario.
+### Hi there 👋, I am Matt Garvin:
+#### Software Developer, Writer, and remote-working Brain-for-Hire that lives in Toronto, Ontario.
 ![I am a Software Developer, Writer, and remote-working Brain-for-Hire that lives in Toronto, Ontario.](https://mattgwriter7.com/assets/github/banner_season_pro.png)
 
 
